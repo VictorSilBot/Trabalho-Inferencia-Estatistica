@@ -1,6 +1,6 @@
-#**TRABALHO DE EXTENSÃO - Introdução à Inferência Estatística**
+# **TRABALHO DE EXTENSÃO - Introdução à Inferência Estatística**
 
-##**ALUNOS:**
+## **ALUNOS:**
 
 Victor Silva Botelho - 15645421
 
