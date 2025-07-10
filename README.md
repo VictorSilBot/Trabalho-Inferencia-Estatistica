@@ -15,9 +15,18 @@ DataSet deste Notebook: https://www.kaggle.com/datasets/dileep070/heart-disease-
 
 [![Análise Inferencial](https://img.youtube.com/vi/WdlTdKiL_lI/0.jpg)](https://youtu.be/WdlTdKiL_lI)
 
-## **Link do Colab:**
+## **Link do Notebook no Google Colab:**
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUDCVnwPnuaTVjt3FLQWz9tdxjJPY3PW?usp=sharing)
+
+[![Executar no Colab](https://img.shields.io/badge/Executar%20no-Colab-blue?logo=google-colab)](https://colab.research.google.com/drive/1IUDCVnwPnuaTVjt3FLQWz9tdxjJPY3PW?usp=sharing)
+
+## 📘 Notebook Interativo
+
+Clique no botão abaixo para abrir o notebook no Google Colab:
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUDCVnwPnuaTVjt3FLQWz9tdxjJPY3PW?usp=sharing)
+
 
 ## **OBJETIVOS DESTE ESTUDO**
 Temos como objetivo identificar os fatores de risco mais relevantes para doenças cardíacas coronarianas, bem como prever o risco global de doença do coração.
