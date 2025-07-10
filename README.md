@@ -13,7 +13,7 @@ DataSet deste Notebook: https://www.kaggle.com/datasets/dileep070/heart-disease-
 
 ## **Vídeo no Youtube:**
 
-
+[![Análise Inferencial](https://youtu.be/WdlTdKiL_lI)
 
 ## **OBJETIVOS DESTE ESTUDO**
 Temos como objetivo identificar os fatores de risco mais relevantes para doenças cardíacas coronarianas, bem como prever o risco global de doença do coração.
