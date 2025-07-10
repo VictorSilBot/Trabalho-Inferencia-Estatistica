@@ -1,2 +1,23 @@
-# Trabalho-Inferencia-Estatistica
-Projeto de Extensão da Matéria de Introdução à Inferência Estatística do curso de Ciência de Dados do ICMC-USP.
+#**TRABALHO DE EXTENSÃO - Introdução à Inferência Estatística**
+
+##**ALUNOS:**
+
+Victor Silva Botelho - 15645421
+
+Thiago Pasquotto Tavares - 15490194
+
+Arthur Filliettaz Mendes - 12532055
+
+## **Coronary Heart Disease Prediction by Demographic, Behavioral and Medical Risk Factors**
+DataSet deste Notebook: https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression/data
+
+## **Vídeo no Youtube:**
+
+
+
+## **OBJETIVOS DESTE ESTUDO**
+Temos como objetivo identificar os fatores de risco mais relevantes para doenças cardíacas coronarianas, bem como prever o risco global de doença do coração.
+
+Descobrir se fatores como nível de glicose, nível de colesterol, se é fumante, idade e sexo afetam diretamente o risco de doença cardíaca nos próximos 10 anos de vida do paciente.
+
+E para isso, usaremos técnicas e métodos da Inferência Estatística.
